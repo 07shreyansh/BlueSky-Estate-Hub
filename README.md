@@ -2,6 +2,10 @@
 
 A full-stack real estate web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js), styled with Tailwind CSS, and using Firebase for Google Authentication.
 
+## Deployment
+
+You can find the live deployment of this project [here](https://bluesky-estate-hub.onrender.com).
+
 ## Features
 
 - User Authentication with Google using Firebase
@@ -95,4 +99,6 @@ real-estate-project/
 │   ├── package.json
 │   ├── tailwind.config.js
 ├── README.md
+```
+
 
